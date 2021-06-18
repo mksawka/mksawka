@@ -1,5 +1,5 @@
-#### Hi, my name is Marcin.  
-##### I am a self-thaught programming enthusiast.  
+### Hi, my name is Marcin.  
+#### I am a self-thaught programming enthusiast.  
 
 
 I am interested in:  
