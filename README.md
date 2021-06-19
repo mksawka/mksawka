@@ -16,17 +16,14 @@ Just to name few.
 
 My interests include languages and technologies such as: 
 - JavaScript  
-- C  
-- C++  
+- C / C++  
 - Python  
 - Perl  
 - Bash  
 - CSS  
-- HTML  
-- markdown  
-- JSON  
+- HTML   
 - BASIC  
 - PHP  
 - x86 asm    
 
-Currently I mainly focus on develop my skills in web-dev with JS, HTML, CSS, React.js and others.  
+Currently I mainly focus on develop my skills in web-dev with JS, HTML, CSS, JSON, Sass, React.js and others.  
