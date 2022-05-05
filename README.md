@@ -6,4 +6,4 @@ Just to name few.
 
 My interests include languages and technologies such as: **JavaScript, WebGL, Bash, CSS, HTML, PHP, BASIC, Perl, C/C++, Python, x86 ASM**.      
 
-Currently I mainly focus on develop my skills in **web development** and **shell scripting**.  
+Currently I mainly focus on develop my skills in **web development** and **shell scripting**.
